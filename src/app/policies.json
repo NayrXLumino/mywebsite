@@ -1,0 +1,63 @@
+[
+    {
+        "policy_number": 619682,
+        "user_id": 923426,
+        "insurance_type": "auto",
+        "policy_start_date": "9/18/2022",
+        "policy_end_date": "8/15/2023",
+        "product_name": "Holdlamis",
+        "insured_age": 25,
+        "insured_gender": "Female",
+        "insured_address": "23 Sage Pass",
+        "insured_city": "Uthai"
+    },
+    {
+        "policy_number": 562891,
+        "user_id": 313559,
+        "insurance_type": "auto",
+        "policy_start_date": "3/29/2022",
+        "policy_end_date": "3/6/2023",
+        "product_name": "Fix San",
+        "insured_age": 24,
+        "insured_gender": "Male",
+        "insured_address": "3 Donald Pass",
+        "insured_city": "Fryčovice"
+    },
+    {
+        "policy_number": 495902,
+        "user_id": 369026,
+        "insurance_type": "life",
+        "policy_start_date": "11/15/2022",
+        "policy_end_date": "4/26/2023",
+        "product_name": "Redhold",
+        "insured_age": 50,
+        "insured_gender": "Genderqueer",
+        "insured_address": "03 Valley Edge Drive",
+        "insured_city": "Tarangnan"
+    },
+    {
+        "policy_number": 168325,
+        "user_id": 517228,
+        "insurance_type": "home",
+        "policy_start_date": "1/6/2022",
+        "policy_end_date": "9/17/2023",
+        "product_name": "Namfix",
+        "insured_age": 45,
+        "insured_gender": "Male",
+        "insured_address": "02589 Loomis Park",
+        "insured_city": "Matiompong"
+    },
+    {
+        "policy_number": 244700,
+        "user_id": 275330,
+        "insurance_type": "auto",
+        "policy_start_date": "6/8/2022",
+        "policy_end_date": "4/25/2023",
+        "product_name": "Fintone",
+        "insured_age": 32,
+        "insured_gender": "Female",
+        "insured_address": "89416 Hagan Circle",
+        "insured_city": "Reims",
+        "insured_state": "Champagne-Ardenne"
+    }
+]
